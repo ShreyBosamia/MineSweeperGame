@@ -2,7 +2,7 @@
 Welcome to my implementation of the classic Minesweeper game in Java! This program utilizes a graphical user interface to recreate the familiar Minesweeper experience. Uncover tiles, avoid mines, and reveal numbers to win the game.
 
 
-## How to Play
+## How to run game
 1) Copy Web URL:
 https://github.com/ShreyBosamia/MineSweeperGame.git
 2) Install and open <a href="https://www.eclipse.org/downloads/packages/installer">Eclipse</a> to import the code
@@ -16,7 +16,7 @@ https://github.com/ShreyBosamia/MineSweeperGame.git
 7) Finish the following steps given by Eclipse
 8) Run the code and play the game from the GUI that pops up
 
-## How it works
+## How to play
 <ul>
   <li>The game board consists of buttons that represent tiles.</li>
   <li>Mines are randomly placed on the board at the start of each game.</li>
